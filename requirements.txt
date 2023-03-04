@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+pymongo[srv]
+motor
+marshmallow
+umongo
+requests
+bs4
+imdbpy
